@@ -29,3 +29,7 @@ git add README.md
 git commit -m "first commit"
 git remote add origin git@github.com:JoaquinLeo/practicando-git.git
 git push -u origin master <-- Este solo se hace una vez
+
+git push <-- Ya despues de git push -u origin master puedo usar solo --> git push
+
+git pull
