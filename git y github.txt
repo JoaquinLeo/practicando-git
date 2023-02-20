@@ -98,3 +98,7 @@ git reset --hard HEAD~1
 
 # Ver todos los commits
 $ git log --oneline
+
+
+# cambiar a un commit en particular
+git checkout id-commit
