@@ -82,9 +82,19 @@ git push -u origin html
 git merge nombre-rama
 
 
-
-
 # Para eliminar una rama del repositorio remoto
 git push origin --delete nombre-rama
 
 
+
+# sin editar el mensaje del último commit
+git commit --amend --no-edit
+
+# editando el mensaje del último commit
+git commit --amend -m "nuevo mensaje para el último commit"
+
+# eliminar el último commit
+git reset --hard HEAD~1
+
+# Ver todos los commits
+$ git log --oneline
