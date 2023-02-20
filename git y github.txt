@@ -65,3 +65,14 @@ git branch --merged
 # rebasar ramas
 git checkout rama-secundaria
 git rebase rama-principal
+
+# Ejemplo practico
+
+git checkout -b html
+
+git add . 
+
+git commit -m "comentario"
+
+git push -u origin html
+
