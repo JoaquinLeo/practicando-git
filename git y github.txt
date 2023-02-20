@@ -76,3 +76,15 @@ git commit -m "comentario"
 
 git push -u origin html
 
+# Fucionando ramas
+
+# Fucion automatica
+git merge nombre-rama
+
+
+
+
+# Para eliminar una rama del repositorio remoto
+git push origin --delete nombre-rama
+
+
