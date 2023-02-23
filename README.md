@@ -10,6 +10,6 @@ Mira este [enlace](https://joaquinleo.github.io/practicando-git).
 
 ![Flujo de Git](git-flow.png)
 
-Click [aqui](https://jonmircha.com/git#github-pages) para ir al blog del curso.
+Click [aqui](https://jonmircha.com/git) para ir al blog del curso.
 
 Click [aqui](https://www.youtube.com/watch?v=suzMNqDQiyU&t=10687s&ab_channel=jonmircha) para ir al video del curso.
