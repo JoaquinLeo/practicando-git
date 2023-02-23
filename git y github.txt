@@ -209,3 +209,14 @@ git push origin numero-versión
 git add .
 git tag -a "v1.0.0" -m "Mensaje de la etiqueta"
 git push --tags
+
+
+# comandos para crear una pagina de github
+git branch gh-pages
+git checkout gh-pages
+
+git remote add origin https://github.com/usuario/repositorio.git
+git push origin gh-pages
+
+# para descargar los cambios del repositorio remoto al local
+git pull origin gh-pages
