@@ -1,0 +1,17 @@
+f97cdf0 Agregando comando para moverme entre commits
+f69a055 Resolviendo conflicto en estaciones del año con fecha de inicio
+84b6e75 Agregando estaciones del año con fechas de inicio
+3547f31 Agregando estaciones del año
+f143415 Resolviendo conflicto merge main/html en el documento index.html
+8eb3eb5 Agregando index.js al index.html
+b8c4acb Agregando style.css al index.html
+f06dee8 Merge branch 'js'
+9f4d401 Creando index.js
+0238ab5 ejemplo practico de creacion de rama
+18165bd Creando style.css
+04fcd17 Creando Archivo index.html
+c91da67 Ingorando archivos .exe
+51d4f22 creando licencia del repositorio
+ec7263f Agregando contenido al README
+255f6f5 Agregando contenido al README.md
+631532d Primer commit
