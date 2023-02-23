@@ -6,4 +6,6 @@ Agrando contenido al _README.md_
 
 Este commit es para oficializar nuestra version **1.0.0**.
 
-https://joaquinleo.github.io/practicando-git
+Mira este [enlace](https://joaquinleo.github.io/practicando-git).
+
+![Flujo de Git](git-flow.png)
